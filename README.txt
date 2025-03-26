@@ -1,1 +1,1 @@
-Hello Git and GitHub./script12.sh I am Prasanna.
+Hello Git and GitHub. I am Prasanna.
